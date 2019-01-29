@@ -1,0 +1,280 @@
+[Mon Jan 28 01:53:58.074411 2019] [mpm_event:notice] [pid 14160:tid 139811454617472] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 01:53:58.074540 2019] [core:notice] [pid 14160:tid 139811454617472] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 01:54:49.140610 2019] [mpm_event:notice] [pid 14160:tid 139811454617472] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 01:54:50.235114 2019] [mpm_event:notice] [pid 14270:tid 140443989165952] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 01:54:50.235235 2019] [core:notice] [pid 14270:tid 140443989165952] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 01:58:32.743486 2019] [mpm_event:notice] [pid 14270:tid 140443989165952] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 01:58:33.848099 2019] [mpm_event:notice] [pid 14445:tid 139905443661696] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 01:58:33.848232 2019] [core:notice] [pid 14445:tid 139905443661696] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 02:03:52.738023 2019] [mpm_event:notice] [pid 14445:tid 139905443661696] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 02:03:53.827515 2019] [mpm_event:notice] [pid 15080:tid 139691103369088] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 02:03:53.827634 2019] [core:notice] [pid 15080:tid 139691103369088] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 07:39:38.505957 2019] [mpm_event:notice] [pid 15080:tid 139691103369088] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 07:39:39.602833 2019] [mpm_event:notice] [pid 21034:tid 140176112887680] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 07:39:39.602953 2019] [core:notice] [pid 21034:tid 140176112887680] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 11:36:18.760647 2019] [mpm_event:notice] [pid 21034:tid 140176112887680] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 11:36:20.000195 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 11:36:20.000311 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 11:36:20.000315 2019] [:warn] [pid 19695:tid 140638406645632] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 11:36:20.000320 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 11:36:20.000342 2019] [:warn] [pid 19695:tid 140638406645632] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 11:36:20.000345 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 11:36:20.000348 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 11:36:20.000351 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 11:36:20.000354 2019] [:notice] [pid 19695:tid 140638406645632] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 11:36:21.002877 2019] [mpm_event:notice] [pid 19696:tid 140638406645632] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 11:36:21.002957 2019] [core:notice] [pid 19696:tid 140638406645632] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 11:43:00.199768 2019] [mpm_event:notice] [pid 19696:tid 140638406645632] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 11:43:01.000808 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 11:43:01.000922 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 11:43:01.000926 2019] [:warn] [pid 19862:tid 140239939291008] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 11:43:01.000930 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 11:43:01.000957 2019] [:warn] [pid 19862:tid 140239939291008] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 11:43:01.000961 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 11:43:01.000963 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 11:43:01.000965 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 11:43:01.000968 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Mon Jan 28 11:43:01.000970 2019] [:notice] [pid 19862:tid 140239939291008] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 11:43:02.002357 2019] [mpm_event:notice] [pid 19863:tid 140239939291008] AH00489: Apache/2.4.18 (Ubuntu)   configured -- resuming normal operations
+[Mon Jan 28 11:43:02.002431 2019] [core:notice] [pid 19863:tid 140239939291008] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 12:28:38.760872 2019] [mpm_event:notice] [pid 19863:tid 140239939291008] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 12:33:07.000664 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 12:33:07.000795 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 12:33:07.000800 2019] [:warn] [pid 25016:tid 140431593146240] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 12:33:07.000804 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 12:33:07.000814 2019] [:warn] [pid 25016:tid 140431593146240] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 12:33:07.000817 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 12:33:07.000820 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 12:33:07.000823 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 12:33:07.000826 2019] [:notice] [pid 25016:tid 140431593146240] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 12:33:08.001614 2019] [mpm_event:notice] [pid 25017:tid 140431593146240] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 12:33:08.001689 2019] [core:notice] [pid 25017:tid 140431593146240] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 12:33:45.842924 2019] [mpm_event:notice] [pid 25017:tid 140431593146240] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 12:33:46.000148 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 12:33:46.000276 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 12:33:46.000280 2019] [:warn] [pid 25124:tid 139999403153280] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 12:33:46.000284 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 12:33:46.000295 2019] [:warn] [pid 25124:tid 139999403153280] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 12:33:46.000297 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 12:33:46.000300 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 12:33:46.000303 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 12:33:46.000306 2019] [:notice] [pid 25124:tid 139999403153280] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 12:33:47.002737 2019] [mpm_event:notice] [pid 25125:tid 139999403153280] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 12:33:47.002837 2019] [core:notice] [pid 25125:tid 139999403153280] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 12:35:20.413204 2019] [mpm_event:notice] [pid 25125:tid 139999403153280] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 12:35:21.000577 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 12:35:21.000680 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 12:35:21.000684 2019] [:warn] [pid 25235:tid 139917858576256] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 12:35:21.000689 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 12:35:21.000709 2019] [:warn] [pid 25235:tid 139917858576256] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 12:35:21.000712 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 12:35:21.000715 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 12:35:21.000718 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 12:35:21.000721 2019] [:notice] [pid 25235:tid 139917858576256] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 12:35:22.002377 2019] [mpm_event:notice] [pid 25236:tid 139917858576256] AH00489: Apache/2.4.18 (Ubuntu) configured -- resuming normal operations
+[Mon Jan 28 12:35:22.003062 2019] [core:notice] [pid 25236:tid 139917858576256] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 12:38:12.157119 2019] [mpm_event:notice] [pid 25236:tid 139917858576256] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 12:38:13.000837 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 12:38:13.000945 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 12:38:13.000952 2019] [:warn] [pid 25346:tid 140462189066112] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 12:38:13.000972 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 12:38:13.000990 2019] [:warn] [pid 25346:tid 140462189066112] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 12:38:13.000994 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 12:38:13.000999 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 12:38:13.001003 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 12:38:13.001007 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Mon Jan 28 12:38:13.001012 2019] [:notice] [pid 25346:tid 140462189066112] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 12:38:14.002396 2019] [mpm_event:notice] [pid 25347:tid 140462189066112] AH00489: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Mon Jan 28 12:38:14.003220 2019] [core:notice] [pid 25347:tid 140462189066112] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 22:47:07.242096 2019] [mpm_event:notice] [pid 25347:tid 140462189066112] AH00491: caught SIGTERM, shutting down
+[Mon Jan 28 22:47:08.000714 2019] [:notice] [pid 19615] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 22:47:08.000833 2019] [:notice] [pid 19615] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 22:47:08.000851 2019] [:warn] [pid 19615] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 22:47:08.000856 2019] [:notice] [pid 19615] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 22:47:08.000865 2019] [:warn] [pid 19615] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 22:47:08.000867 2019] [:notice] [pid 19615] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 22:47:08.000870 2019] [:notice] [pid 19615] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 22:47:08.000872 2019] [:notice] [pid 19615] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 22:47:08.000875 2019] [:notice] [pid 19615] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Mon Jan 28 22:47:08.000877 2019] [:notice] [pid 19615] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 22:47:09.002961 2019] [mpm_prefork:notice] [pid 19616] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Mon Jan 28 22:47:09.003037 2019] [core:notice] [pid 19616] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 22:47:09.539267 2019] [mpm_prefork:notice] [pid 19616] AH00169: caught SIGTERM, shutting down
+[Mon Jan 28 22:47:10.000408 2019] [:notice] [pid 19729] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 22:47:10.000512 2019] [:notice] [pid 19729] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 22:47:10.000516 2019] [:warn] [pid 19729] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 22:47:10.000520 2019] [:notice] [pid 19729] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 22:47:10.000536 2019] [:warn] [pid 19729] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 22:47:10.000539 2019] [:notice] [pid 19729] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 22:47:10.000541 2019] [:notice] [pid 19729] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 22:47:10.000544 2019] [:notice] [pid 19729] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 22:47:10.000546 2019] [:notice] [pid 19729] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Mon Jan 28 22:47:10.000549 2019] [:notice] [pid 19729] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 22:47:11.004235 2019] [mpm_prefork:notice] [pid 19730] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Mon Jan 28 22:47:11.005463 2019] [core:notice] [pid 19730] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jan 28 22:52:39.976274 2019] [mpm_prefork:notice] [pid 19730] AH00169: caught SIGTERM, shutting down
+[Mon Jan 28 22:52:42.001014 2019] [:notice] [pid 20601] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Mon Jan 28 22:52:42.001123 2019] [:notice] [pid 20601] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Mon Jan 28 22:52:42.001128 2019] [:warn] [pid 20601] ModSecurity: Loaded APR do not match with compiled!
+[Mon Jan 28 22:52:42.001145 2019] [:notice] [pid 20601] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Mon Jan 28 22:52:42.001152 2019] [:warn] [pid 20601] ModSecurity: Loaded PCRE do not match with compiled!
+[Mon Jan 28 22:52:42.001154 2019] [:notice] [pid 20601] ModSecurity: LUA compiled version="Lua 5.1"
+[Mon Jan 28 22:52:42.001157 2019] [:notice] [pid 20601] ModSecurity: YAJL compiled version="2.1.0"
+[Mon Jan 28 22:52:42.001160 2019] [:notice] [pid 20601] ModSecurity: LIBXML compiled version="2.9.2"
+[Mon Jan 28 22:52:42.001164 2019] [:notice] [pid 20601] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Mon Jan 28 22:52:42.001168 2019] [:notice] [pid 20601] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Mon Jan 28 22:52:43.004255 2019] [mpm_prefork:notice] [pid 20602] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Mon Jan 28 22:52:43.004348 2019] [core:notice] [pid 20602] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 00:57:55.474279 2019] [mpm_prefork:notice] [pid 20602] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 00:57:57.000545 2019] [:notice] [pid 25421] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 00:57:57.000652 2019] [:notice] [pid 25421] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 00:57:57.000656 2019] [:warn] [pid 25421] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 00:57:57.000673 2019] [:notice] [pid 25421] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 00:57:57.000680 2019] [:warn] [pid 25421] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 00:57:57.000683 2019] [:notice] [pid 25421] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 00:57:57.000686 2019] [:notice] [pid 25421] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 00:57:57.000689 2019] [:notice] [pid 25421] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 00:57:57.000692 2019] [:notice] [pid 25421] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 00:57:57.000695 2019] [:notice] [pid 25421] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 00:57:58.005261 2019] [mpm_prefork:notice] [pid 25422] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 00:57:58.005365 2019] [core:notice] [pid 25422] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:02:04.170204 2019] [mpm_prefork:notice] [pid 25422] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:02:06.000822 2019] [:notice] [pid 25497] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:02:06.000923 2019] [:notice] [pid 25497] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:02:06.000927 2019] [:warn] [pid 25497] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:02:06.000931 2019] [:notice] [pid 25497] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:02:06.000946 2019] [:warn] [pid 25497] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:02:06.000948 2019] [:notice] [pid 25497] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:02:06.000951 2019] [:notice] [pid 25497] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:02:06.000954 2019] [:notice] [pid 25497] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:02:06.000956 2019] [:notice] [pid 25497] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:02:06.000959 2019] [:notice] [pid 25497] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:02:07.005251 2019] [mpm_prefork:notice] [pid 25498] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:02:07.008289 2019] [core:notice] [pid 25498] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:20:35.226906 2019] [mpm_prefork:notice] [pid 25498] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:20:37.000774 2019] [:notice] [pid 25660] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:20:37.000903 2019] [:notice] [pid 25660] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:20:37.000910 2019] [:warn] [pid 25660] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:20:37.000931 2019] [:notice] [pid 25660] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:20:37.000945 2019] [:warn] [pid 25660] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:20:37.000948 2019] [:notice] [pid 25660] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:20:37.000952 2019] [:notice] [pid 25660] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:20:37.000956 2019] [:notice] [pid 25660] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:20:37.000975 2019] [:notice] [pid 25660] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:20:37.000980 2019] [:notice] [pid 25660] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:20:38.004452 2019] [mpm_prefork:notice] [pid 25661] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:20:38.004531 2019] [core:notice] [pid 25661] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:20:45.139662 2019] [core:alert] [pid 25666] [client 70.95.166.82:64314] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:02.196443 2019] [mpm_prefork:notice] [pid 25661] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:21:04.000825 2019] [:notice] [pid 25722] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:21:04.000924 2019] [:notice] [pid 25722] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:21:04.000928 2019] [:warn] [pid 25722] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:21:04.000932 2019] [:notice] [pid 25722] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:21:04.000947 2019] [:warn] [pid 25722] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:21:04.000949 2019] [:notice] [pid 25722] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:21:04.000952 2019] [:notice] [pid 25722] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:21:04.000954 2019] [:notice] [pid 25722] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:21:04.000957 2019] [:notice] [pid 25722] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:21:04.000959 2019] [:notice] [pid 25722] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:21:05.005944 2019] [mpm_prefork:notice] [pid 25723] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:21:05.006029 2019] [core:notice] [pid 25723] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:21:06.611776 2019] [core:alert] [pid 25727] [client 70.95.166.82:64405] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:09.235933 2019] [core:alert] [pid 25728] [client 70.95.166.82:64406] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:09.956553 2019] [core:alert] [pid 25726] [client 70.95.166.82:64419] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:10.569227 2019] [core:alert] [pid 25730] [client 70.95.166.82:64424] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:53.400125 2019] [core:alert] [pid 25727] [client 70.95.166.82:64598] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:57.781442 2019] [core:alert] [pid 25728] [client 70.95.166.82:64599] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:58.514641 2019] [core:alert] [pid 25726] [client 70.95.166.82:64616] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:21:59.299976 2019] [core:alert] [pid 25730] [client 70.95.166.82:64621] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:22:15.880636 2019] [core:alert] [pid 25729] [client 70.95.166.82:64673] /var/www/html/.htaccess: Invalid command 'ewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Tue Jan 29 01:23:25.847122 2019] [mpm_prefork:notice] [pid 25723] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:23:27.000137 2019] [:notice] [pid 25788] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:23:27.000251 2019] [:notice] [pid 25788] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:23:27.000255 2019] [:warn] [pid 25788] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:23:27.000259 2019] [:notice] [pid 25788] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:23:27.000266 2019] [:warn] [pid 25788] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:23:27.000269 2019] [:notice] [pid 25788] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:23:27.000272 2019] [:notice] [pid 25788] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:23:27.000274 2019] [:notice] [pid 25788] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:23:27.000277 2019] [:notice] [pid 25788] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:23:27.000280 2019] [:notice] [pid 25788] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:23:28.004455 2019] [mpm_prefork:notice] [pid 25789] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:23:28.004529 2019] [core:notice] [pid 25789] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:27:43.314422 2019] [mpm_prefork:notice] [pid 25789] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:27:45.000703 2019] [:notice] [pid 25859] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:27:45.001558 2019] [:notice] [pid 25859] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:27:45.001573 2019] [:warn] [pid 25859] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:27:45.001581 2019] [:notice] [pid 25859] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:27:45.001598 2019] [:warn] [pid 25859] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:27:45.001604 2019] [:notice] [pid 25859] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:27:45.001608 2019] [:notice] [pid 25859] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:27:45.001612 2019] [:notice] [pid 25859] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:27:45.001624 2019] [:notice] [pid 25859] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:27:45.001629 2019] [:notice] [pid 25859] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:27:46.004695 2019] [mpm_prefork:notice] [pid 25860] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:27:46.004765 2019] [core:notice] [pid 25860] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:29:32.055006 2019] [mpm_prefork:notice] [pid 25860] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:29:34.000965 2019] [:notice] [pid 25922] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:29:34.001094 2019] [:notice] [pid 25922] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:29:34.001098 2019] [:warn] [pid 25922] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:29:34.001102 2019] [:notice] [pid 25922] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:29:34.001117 2019] [:warn] [pid 25922] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:29:34.001119 2019] [:notice] [pid 25922] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:29:34.001137 2019] [:notice] [pid 25922] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:29:34.001140 2019] [:notice] [pid 25922] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:29:34.001142 2019] [:notice] [pid 25922] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:29:34.001144 2019] [:notice] [pid 25922] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:29:35.004482 2019] [mpm_prefork:notice] [pid 25923] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:29:35.005689 2019] [core:notice] [pid 25923] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:29:57.800381 2019] [mpm_prefork:notice] [pid 25923] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:29:59.000196 2019] [:notice] [pid 25981] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:29:59.000301 2019] [:notice] [pid 25981] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:29:59.000305 2019] [:warn] [pid 25981] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:29:59.000309 2019] [:notice] [pid 25981] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:29:59.000324 2019] [:warn] [pid 25981] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:29:59.000326 2019] [:notice] [pid 25981] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:29:59.000329 2019] [:notice] [pid 25981] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:29:59.000331 2019] [:notice] [pid 25981] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:29:59.000334 2019] [:notice] [pid 25981] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:29:59.000336 2019] [:notice] [pid 25981] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:30:00.005839 2019] [mpm_prefork:notice] [pid 25982] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:30:00.005945 2019] [core:notice] [pid 25982] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:31:38.223840 2019] [mpm_prefork:notice] [pid 25982] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:31:40.000799 2019] [:notice] [pid 26044] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:31:40.000941 2019] [:notice] [pid 26044] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:31:40.000948 2019] [:warn] [pid 26044] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:31:40.000955 2019] [:notice] [pid 26044] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:31:40.000967 2019] [:warn] [pid 26044] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:31:40.000971 2019] [:notice] [pid 26044] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:31:40.000975 2019] [:notice] [pid 26044] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:31:40.000979 2019] [:notice] [pid 26044] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:31:40.000983 2019] [:notice] [pid 26044] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:31:40.000988 2019] [:notice] [pid 26044] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:31:41.004787 2019] [mpm_prefork:notice] [pid 26045] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:31:41.007351 2019] [core:notice] [pid 26045] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:33:11.677976 2019] [mpm_prefork:notice] [pid 26045] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:33:13.000327 2019] [:notice] [pid 26108] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:33:13.000470 2019] [:notice] [pid 26108] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:33:13.000497 2019] [:warn] [pid 26108] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:33:13.000503 2019] [:notice] [pid 26108] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:33:13.000515 2019] [:warn] [pid 26108] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:33:13.000518 2019] [:notice] [pid 26108] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:33:13.000521 2019] [:notice] [pid 26108] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:33:13.000525 2019] [:notice] [pid 26108] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:33:13.000528 2019] [:notice] [pid 26108] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:33:13.000531 2019] [:notice] [pid 26108] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:33:14.004770 2019] [mpm_prefork:notice] [pid 26109] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:33:14.004848 2019] [core:notice] [pid 26109] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jan 29 01:34:13.350321 2019] [mpm_prefork:notice] [pid 26109] AH00169: caught SIGTERM, shutting down
+[Tue Jan 29 01:34:15.000644 2019] [:notice] [pid 26169] ModSecurity for Apache/2.9.0 (http://www.modsecurity.org/) configured.
+[Tue Jan 29 01:34:15.000742 2019] [:notice] [pid 26169] ModSecurity: APR compiled version="1.5.1"; loaded version="1.5.2"
+[Tue Jan 29 01:34:15.000746 2019] [:warn] [pid 26169] ModSecurity: Loaded APR do not match with compiled!
+[Tue Jan 29 01:34:15.000751 2019] [:notice] [pid 26169] ModSecurity: PCRE compiled version="8.35 "; loaded version="8.38 2015-11-23"
+[Tue Jan 29 01:34:15.000765 2019] [:warn] [pid 26169] ModSecurity: Loaded PCRE do not match with compiled!
+[Tue Jan 29 01:34:15.000768 2019] [:notice] [pid 26169] ModSecurity: LUA compiled version="Lua 5.1"
+[Tue Jan 29 01:34:15.000770 2019] [:notice] [pid 26169] ModSecurity: YAJL compiled version="2.1.0"
+[Tue Jan 29 01:34:15.000773 2019] [:notice] [pid 26169] ModSecurity: LIBXML compiled version="2.9.2"
+[Tue Jan 29 01:34:15.000776 2019] [:notice] [pid 26169] ModSecurity: Original server signature: Apache/2.4.18 (Ubuntu)
+[Tue Jan 29 01:34:15.000778 2019] [:notice] [pid 26169] ModSecurity: Status engine is currently disabled, enable it by set SecStatusEngine to On.
+[Tue Jan 29 01:34:16.004468 2019] [mpm_prefork:notice] [pid 26170] AH00163: Apache/2.4.18 (Ubuntu) TEAM_3 configured -- resuming normal operations
+[Tue Jan 29 01:34:16.004549 2019] [core:notice] [pid 26170] AH00094: Command line: '/usr/sbin/apache2'

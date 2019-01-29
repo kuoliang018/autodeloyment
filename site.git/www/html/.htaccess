@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule ^index$ index.html
+RewriteEngine on
+RewriteRule ^info$ info.php
+RewriteEngine on
+RewriteRule ^phpinfo$ phpinfo.php 

@@ -1,0 +1,134 @@
+
+Start-Date: 2018-12-23  08:30:47
+Commandline: apt-get install -qqy grub-efi-amd64-signed grub-efi-amd64 shim-signed
+Install: libefivar0:amd64 (0.23-2, automatic), efibootmgr:amd64 (0.12-4, automatic), sbsigntool:amd64 (0.6-0ubuntu10.1, automatic), grub-efi-amd64-bin:amd64 (2.02~beta2-36ubuntu3.20, automatic), mokutil:amd64 (0.3.0+1538710437.fb6250f-0ubuntu2~16.04.1, automatic), grub-efi-amd64:amd64 (2.02~beta2-36ubuntu3.20), shim-signed:amd64 (1.33.1~16.04.1+13-0ubuntu2), grub-efi-amd64-signed:amd64 (1.66.20+2.02~beta2-36ubuntu3.20), secureboot-db:amd64 (1.4~ubuntu0.16.04.1, automatic), shim:amd64 (13-0ubuntu2, automatic)
+Remove: grub-pc:amd64 (2.02~beta2-36ubuntu3.20), grub-gfxpayload-lists:amd64 (0.7)
+End-Date: 2018-12-23  08:30:51
+
+Start-Date: 2019-01-24  08:46:09
+Commandline: apt-get install nginx
+Install: libgd3:amd64 (2.1.1-4ubuntu0.16.04.10, automatic), nginx-core:amd64 (1.10.3-0ubuntu0.16.04.3, automatic), fontconfig-config:amd64 (2.11.94-0ubuntu1.1, automatic), nginx-common:amd64 (1.10.3-0ubuntu0.16.04.3, automatic), libvpx3:amd64 (1.5.0-2ubuntu1, automatic), libtiff5:amd64 (4.0.6-1ubuntu0.5, automatic), fonts-dejavu-core:amd64 (2.35-1, automatic), libjpeg8:amd64 (8c-2ubuntu8, automatic), libfontconfig1:amd64 (2.11.94-0ubuntu1.1, automatic), libjpeg-turbo8:amd64 (1.4.2-0ubuntu3.1, automatic), libjbig0:amd64 (2.1-3.1, automatic), libxpm4:amd64 (1:3.5.11-1ubuntu0.16.04.1, automatic), nginx:amd64 (1.10.3-0ubuntu0.16.04.3)
+End-Date: 2019-01-24  08:46:19
+
+Start-Date: 2019-01-25  06:41:52
+Commandline: /usr/bin/unattended-upgrade
+Upgrade: libpolkit-gobject-1-0:amd64 (0.105-14.1ubuntu0.1, 0.105-14.1ubuntu0.4), libkrb5-3:amd64 (1.13.2+dfsg-5ubuntu2, 1.13.2+dfsg-5ubuntu2.1), libgssapi-krb5-2:amd64 (1.13.2+dfsg-5ubuntu2, 1.13.2+dfsg-5ubuntu2.1), libapt-inst2.0:amd64 (1.2.29, 1.2.29ubuntu0.1), libsystemd0:amd64 (229-4ubuntu21.10, 229-4ubuntu21.15), apt:amd64 (1.2.29, 1.2.29ubuntu0.1), libpolkit-agent-1-0:amd64 (0.105-14.1ubuntu0.1, 0.105-14.1ubuntu0.4), libk5crypto3:amd64 (1.13.2+dfsg-5ubuntu2, 1.13.2+dfsg-5ubuntu2.1), udev:amd64 (229-4ubuntu21.10, 229-4ubuntu21.15), libapt-pkg5.0:amd64 (1.2.29, 1.2.29ubuntu0.1), initramfs-tools-bin:amd64 (0.122ubuntu8.13, 0.122ubuntu8.14), libudev1:amd64 (229-4ubuntu21.10, 229-4ubuntu21.15), krb5-locales:amd64 (1.13.2+dfsg-5ubuntu2, 1.13.2+dfsg-5ubuntu2.1), libkrb5support0:amd64 (1.13.2+dfsg-5ubuntu2, 1.13.2+dfsg-5ubuntu2.1), systemd-sysv:amd64 (229-4ubuntu21.10, 229-4ubuntu21.15), libpam-systemd:amd64 (229-4ubuntu21.10, 229-4ubuntu21.15), systemd:amd64 (229-4ubuntu21.10, 229-4ubuntu21.15), libpolkit-backend-1-0:amd64 (0.105-14.1ubuntu0.1, 0.105-14.1ubuntu0.4), apt-utils:amd64 (1.2.29, 1.2.29ubuntu0.1), policykit-1:amd64 (0.105-14.1ubuntu0.1, 0.105-14.1ubuntu0.4), unattended-upgrades:amd64 (0.90ubuntu0.9, 0.90ubuntu0.10), apt-transport-https:amd64 (1.2.29, 1.2.29ubuntu0.1), initramfs-tools-core:amd64 (0.122ubuntu8.13, 0.122ubuntu8.14), initramfs-tools:amd64 (0.122ubuntu8.13, 0.122ubuntu8.14), tzdata:amd64 (2018g-0ubuntu0.16.04, 2018i-0ubuntu0.16.04)
+End-Date: 2019-01-25  06:52:13
+
+Start-Date: 2019-01-28  01:17:41
+Commandline: apt-get install apache2
+Install: libaprutil1:amd64 (1.5.4-1build1, automatic), libaprutil1-dbd-sqlite3:amd64 (1.5.4-1build1, automatic), ssl-cert:amd64 (1.0.37, automatic), apache2-data:amd64 (2.4.18-2ubuntu3.9, automatic), libapr1:amd64 (1.5.2-3, automatic), libaprutil1-ldap:amd64 (1.5.4-1build1, automatic), liblua5.1-0:amd64 (5.1.5-8ubuntu1, automatic), apache2-bin:amd64 (2.4.18-2ubuntu3.9, automatic), apache2:amd64 (2.4.18-2ubuntu3.9), apache2-utils:amd64 (2.4.18-2ubuntu3.9, automatic)
+End-Date: 2019-01-28  01:17:45
+
+Start-Date: 2019-01-28  07:54:35
+Commandline: apt-get install nodejs
+Install: python2.7-minimal:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), python2.7:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), nodejs:amd64 (6.16.0-1nodesource1), python:amd64 (2.7.12-1~16.04, automatic), libpython-stdlib:amd64 (2.7.12-1~16.04, automatic), libpython2.7-minimal:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), libpython2.7-stdlib:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), python-minimal:amd64 (2.7.12-1~16.04, automatic)
+End-Date: 2019-01-28  07:54:41
+
+Start-Date: 2019-01-28  07:55:53
+Commandline: apt-get install build-essential
+Install: libmpc3:amd64 (1.0.3-1, automatic), libmpx0:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libgcc-5-dev:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), linux-libc-dev:amd64 (4.4.0-141.167, automatic), libfakeroot:amd64 (1.20.2-1ubuntu1, automatic), libc6-dev:amd64 (2.23-0ubuntu10, automatic), cpp-5:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libalgorithm-diff-perl:amd64 (1.19.03-1, automatic), libalgorithm-merge-perl:amd64 (0.08-3, automatic), binutils:amd64 (2.26.1-1ubuntu1~16.04.7, automatic), cpp:amd64 (4:5.3.1-1ubuntu1, automatic), libitm1:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), g++:amd64 (4:5.3.1-1ubuntu1, automatic), gcc:amd64 (4:5.3.1-1ubuntu1, automatic), libcilkrts5:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libasan2:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libquadmath0:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libisl15:amd64 (0.16.1-1, automatic), build-essential:amd64 (12.1ubuntu2), libfile-fcntllock-perl:amd64 (0.22-3, automatic), libstdc++-5-dev:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libtsan0:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libubsan0:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), g++-5:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), make:amd64 (4.1-6, automatic), fakeroot:amd64 (1.20.2-1ubuntu1, automatic), gcc-5:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), liblsan0:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libgomp1:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), manpages-dev:amd64 (4.04-2, automatic), libc-dev-bin:amd64 (2.23-0ubuntu10, automatic), libatomic1:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libcc1-0:amd64 (5.4.0-6ubuntu1~16.04.11, automatic), libdpkg-perl:amd64 (1.18.4ubuntu1.5, automatic), libalgorithm-diff-xs-perl:amd64 (0.04-4build1, automatic), dpkg-dev:amd64 (1.18.4ubuntu1.5, automatic)
+End-Date: 2019-01-28  07:56:04
+
+Start-Date: 2019-01-28  08:00:40
+Commandline: apt-get install goaccess
+Install: goaccess:amd64 (1:0.9.4-1build1)
+End-Date: 2019-01-28  08:00:41
+
+Start-Date: 2019-01-28  08:28:47
+Commandline: apt-get install libncursesw5-dev
+Install: libncursesw5-dev:amd64 (6.0+20160213-1ubuntu1), libtinfo-dev:amd64 (6.0+20160213-1ubuntu1, automatic)
+End-Date: 2019-01-28  08:28:48
+
+Start-Date: 2019-01-28  08:42:11
+Commandline: apt-get install goaccess
+Upgrade: goaccess:amd64 (1:0.9.4-1build1, 1:1.3)
+End-Date: 2019-01-28  08:42:11
+
+Start-Date: 2019-01-28  10:01:20
+Commandline: apt install node-express-generator
+Install: node-send:amd64 (0.9.4-1, automatic), node-path-to-regexp:amd64 (1.0.1-1, automatic), node-express-generator:amd64 (4.0.0-2), node-crc:amd64 (3.0.0-3, automatic), node-on-finished:amd64 (2.1.0-2, automatic), node-depd:amd64 (1.0.0-1, automatic), node-buffer-crc32:amd64 (0.2.1-1, automatic), node-etag:amd64 (1.4.0-1, automatic), node-commander:amd64 (2.4.0-1, automatic), node-debug:amd64 (2.1.0+dfsg-2, automatic), node-range-parser:amd64 (0.0.4+git7d1cd72a-1, automatic), node-mime-types:amd64 (2.0.2-2, automatic), node-cookie:amd64 (0.1.2-2, automatic), node-cookie-signature:amd64 (1.0.3-1, automatic), node-media-typer:amd64 (0.3.0-1, automatic), node-methods:amd64 (1.1.0-1, automatic), node-qs:amd64 (2.2.4-1, automatic), node-accepts:amd64 (1.1.1-1, automatic), node-parseurl:amd64 (1.3.0-1, automatic), node-type-is:amd64 (1.5.2-1, automatic), node-merge-descriptors:amd64 (0.0.2-1, automatic), node-express:amd64 (4.1.1~dfsg-1, automatic), node-fresh:amd64 (0.2.0-1, automatic), node-utils-merge:amd64 (1.0.0-1, automatic), node-escape-html:amd64 (1.0.1-1, automatic), node-mime:amd64 (1.3.4-1, automatic), node-negotiator:amd64 (0.4.8-1, automatic), node-mkdirp:amd64 (0.5.0-1, automatic), node-serve-static:amd64 (1.6.4-2, automatic)
+End-Date: 2019-01-28  10:01:21
+
+Start-Date: 2019-01-28  11:35:48
+Commandline: apt-get upgrade
+Upgrade: python3-software-properties:amd64 (0.96.20.7, 0.96.20.8), update-notifier-common:amd64 (3.168.9, 3.168.10), shim-signed:amd64 (1.33.1~16.04.1+13-0ubuntu2, 1.33.1~16.04.3+15+1533136590.3beb971-0ubuntu1), ca-certificates:amd64 (20170717~16.04.1, 20170717~16.04.2), software-properties-common:amd64 (0.96.20.7, 0.96.20.8), shim:amd64 (13-0ubuntu2, 15+1533136590.3beb971-0ubuntu1)
+End-Date: 2019-01-28  11:35:53
+
+Start-Date: 2019-01-28  11:36:17
+Commandline: apt-get install libapache2-mod-security2
+Install: modsecurity-crs:amd64 (2.2.9-1, automatic), libyajl2:amd64 (2.1.0-2, automatic), libapache2-mod-security2:amd64 (2.9.0-1)
+End-Date: 2019-01-28  11:36:21
+
+Start-Date: 2019-01-28  11:55:14
+Commandline: apt install gedit
+Install: libjson-glib-1.0-0:amd64 (1.1.2-0ubuntu1, automatic), hunspell-en-us:amd64 (20070829-6ubuntu3, automatic), libsoup-gnome2.4-1:amd64 (2.52.2-1ubuntu0.3, automatic), libcroco3:amd64 (0.6.11-1, automatic), libwebp5:amd64 (0.4.4-1, automatic), libpangoft2-1.0-0:amd64 (1.38.1-1, automatic), libgusb2:amd64 (0.2.9-0ubuntu1, automatic), enchant:amd64 (1.6.0-10.1build2, automatic), libaa1:amd64 (1.4p5-44build1, automatic), libgphoto2-port12:amd64 (2.5.9-3, automatic), glib-networking-services:amd64 (2.48.2-1~ubuntu16.04.1, automatic), libraw1394-11:amd64 (2.1.1-2, automatic), libieee1284-3:amd64 (0.2.11-12, automatic), libcups2:amd64 (2.1.3-4ubuntu0.7, automatic), gedit:amd64 (3.18.3-0ubuntu4), libdrm-nouveau2:amd64 (2.4.91-2~16.04.1, automatic), gir1.2-gtk-3.0:amd64 (3.18.9-1ubuntu3.3, automatic), libxcb-xfixes0:amd64 (1.11.1-1ubuntu1, automatic), libprotobuf-lite9v5:amd64 (2.6.1-1.3, automatic), libgtk2.0-bin:amd64 (2.24.30-1ubuntu1.16.04.2, automatic), libdv4:amd64 (1.0.0-7, automatic), libgphoto2-6:amd64 (2.5.9-3, automatic), gir1.2-gdkpixbuf-2.0:amd64 (2.32.2-1ubuntu1.5, automatic), libgdk-pixbuf2.0-0:amd64 (2.32.2-1ubuntu1.5, automatic), libproxy1v5:amd64 (0.4.11-5ubuntu1, automatic), liblcms2-2:amd64 (2.6-3ubuntu2.1, automatic), dconf-service:amd64 (0.24.0-2, automatic), libboost-filesystem1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1, automatic), libcairo-gobject2:amd64 (1.14.6-1, automatic), libcdparanoia0:amd64 (3.10.2+debian-11, automatic), glib-networking:amd64 (2.48.2-1~ubuntu16.04.1, automatic), libgtk-3-common:amd64 (3.18.9-1ubuntu3.3, automatic), libpciaccess0:amd64 (0.13.4-1, automatic), libxcb-present0:amd64 (1.11.1-1ubuntu1, automatic), libgtk-3-0:amd64 (3.18.9-1ubuntu3.3, automatic), libshout3:amd64 (2.3.1-3, automatic), gstreamer1.0-plugins-good:amd64 (1.8.3-1ubuntu0.4, automatic), libcapnp-0.5.3:amd64 (0.5.3-2ubuntu1.1, automatic), libglapi-mesa:amd64 (18.0.5-0ubuntu0~16.04.1, automatic), yelp:amd64 (3.18.1-1ubuntu4, automatic), libyelp0:amd64 (3.18.1-1ubuntu4, automatic), libpixman-1-0:amd64 (0.33.6-1, automatic), libsecret-1-0:amd64 (0.18.4-1ubuntu2, automatic), liborc-0.4-0:amd64 (1:0.4.25-1, automatic), librsvg2-common:amd64 (2.40.13-3, automatic), libxrender1:amd64 (1:0.9.9-0ubuntu1, automatic), gir1.2-atk-1.0:amd64 (2.18.0-1, automatic), libogg0:amd64 (1.3.2-1, automatic), humanity-icon-theme:amd64 (0.6.10.1, automatic), libavahi-common-data:amd64 (0.6.32~rc+dfsg-1ubuntu2.2, automatic), python3-gi-cairo:amd64 (3.20.0-0ubuntu1, automatic), at-spi2-core:amd64 (2.18.3-4ubuntu1, automatic), dconf-gsettings-backend:amd64 (0.24.0-2, automatic), libavahi-common3:amd64 (0.6.32~rc+dfsg-1ubuntu2.2, automatic), libgtk2.0-0:amd64 (2.24.30-1ubuntu1.16.04.2, automatic), notification-daemon:amd64 (3.18.2-1, automatic), libpeas-1.0-0:amd64 (1.16.0-1ubuntu2, automatic), libxcursor1:amd64 (1:1.1.14-1ubuntu0.16.04.2, automatic), libtxc-dxtn-s2tc0:amd64 (0~git20131104-1.1, automatic), libboost-system1.58.0:amd64 (1.58.0+dfsg-5ubuntu3.1, automatic), libgphoto2-l10n:amd64 (2.5.9-3, automatic), libgtksourceview-3.0-common:amd64 (3.18.2-1, automatic), libthai-data:amd64 (0.1.24-2, automatic), gir1.2-pango-1.0:amd64 (1.38.1-1, automatic), libharfbuzz-icu0:amd64 (1.0.1-1ubuntu0.1, automatic), libegl1-mesa:amd64 (18.0.5-0ubuntu0~16.04.1, automatic), gstreamer1.0-plugins-base:amd64 (1.8.3-1ubuntu0.2, automatic), libxcb-shm0:amd64 (1.11.1-1ubuntu1, automatic), libepoxy0:amd64 (1.3.1-1ubuntu0.16.04.2, automatic), libsecret-common:amd64 (0.18.4-1ubuntu2, automatic), gsettings-desktop-schemas:amd64 (3.18.1-1ubuntu1, automatic), libxcb-render0:amd64 (1.11.1-1ubuntu1, automatic), libhyphen0:amd64 (2.8.8-2ubuntu1, automatic), libmircore1:amd64 (0.26.3+16.04.20170605-0ubuntu1.1, automatic), gir1.2-freedesktop:amd64 (1.46.0-3ubuntu1, automatic), libwavpack1:amd64 (4.75.2-2ubuntu0.2, automatic), colord-data:amd64 (1.2.12-1ubuntu1, automatic), libgudev-1.0-0:amd64 (1:230-2, automatic), libopus0:amd64 (1.1.2-1ubuntu1, automatic), glib-networking-common:amd64 (2.48.2-1~ubuntu16.04.1, automatic), libgstreamer-plugins-good1.0-0:amd64 (1.8.3-1ubuntu0.4, automatic), libsoup2.4-1:amd64 (2.52.2-1ubuntu0.3, automatic), libwebpdemux1:amd64 (0.4.4-1, automatic), libltdl7:amd64 (2.4.6-0.1, automatic), libgbm1:amd64 (18.0.5-0ubuntu0~16.04.1, automatic), libxshmfence1:amd64 (1.2-1, automatic), gnome-user-guide:amd64 (3.18.1-1, automatic), libpeas-1.0-0-python3loader:amd64 (1.16.0-1ubuntu2, automatic), libwayland-client0:amd64 (1.12.0-1~ubuntu16.04.3, automatic), libaspell15:amd64 (0.60.7~20110707-3build1, automatic), libpangoxft-1.0-0:amd64 (1.38.1-1, automatic), libdrm-amdgpu1:amd64 (2.4.91-2~16.04.1, automatic), libexif12:amd64 (0.6.21-2, automatic), fontconfig:amd64 (2.11.94-0ubuntu1.1, automatic), libllvm6.0:amd64 (1:6.0-1ubuntu2~16.04.1, automatic), libpeas-common:amd64 (1.16.0-1ubuntu2, automatic), libatk1.0-0:amd64 (2.18.0-1, automatic), libxcomposite1:amd64 (1:0.4.4-1, automatic), gir1.2-peas-1.0:amd64 (1.16.0-1ubuntu2, automatic), adwaita-icon-theme:amd64 (3.18.0-2ubuntu3.1, automatic), libgtk-3-bin:amd64 (3.18.9-1ubuntu3.3, automatic), libpangocairo-1.0-0:amd64 (1.38.1-1, automatic), libmirprotobuf3:amd64 (0.26.3+16.04.20170605-0ubuntu1.1, automatic), yelp-xsl:amd64 (3.18.1-1, automatic), gir1.2-gtksource-3.0:amd64 (3.18.2-1, automatic), libcaca0:amd64 (0.99.beta19-2ubuntu0.16.04.1, automatic), libxtst6:amd64 (2:1.2.2-1, automatic), libatspi2.0-0:amd64 (2.18.3-4ubuntu1, automatic), librsvg2-2:amd64 (2.40.13-3, automatic), libxi6:amd64 (2:1.7.6-1, automatic), libiec61883-0:amd64 (1.2.0-0.2, automatic), libxv1:amd64 (2:1.0.10-1, automatic), libvorbisenc2:amd64 (1.3.5-3ubuntu0.2, automatic), libtag1v5:amd64 (1.9.1-2.4ubuntu1, automatic), libmirclient9:amd64 (0.26.3+16.04.20170605-0ubuntu1.1, automatic), libxinerama1:amd64 (2:1.1.3-1, automatic), libspeex1:amd64 (1.2~rc1.2-1ubuntu1, automatic), libenchant1c2a:amd64 (1.6.0-10.1build2, automatic), libwayland-egl1-mesa:amd64 (18.0.5-0ubuntu0~16.04.1, automatic), libjack-jackd2-0:amd64 (1.9.10+20150825git1ed50c92~dfsg-1ubuntu1, automatic), libxft2:amd64 (2.3.2-1, automatic), zenity:amd64 (3.18.1.1-1ubuntu2, automatic), libjson-glib-1.0-common:amd64 (1.1.2-0ubuntu1, automatic), libgstreamer-plugins-base1.0-0:amd64 (1.8.3-1ubuntu0.2, automatic), libxrandr2:amd64 (2:1.5.0-1, automatic), libtheora0:amd64 (1.1.1+dfsg.1-8, automatic), gedit-common:amd64 (3.18.3-0ubuntu4, automatic), gstreamer1.0-x:amd64 (1.8.3-1ubuntu0.2, automatic), libcolord2:amd64 (1.2.12-1ubuntu1, automatic), libwebkit2gtk-4.0-37:amd64 (2.20.5-0ubuntu0.16.04.1, automatic), hicolor-icon-theme:amd64 (0.15-0ubuntu1.1, automatic), libxfixes3:amd64 (1:5.0.1-2, automatic), libthai0:amd64 (0.1.24-2, automatic), emacsen-common:amd64 (2.0.8, automatic), libgl1-mesa-dri:amd64 (18.0.5-0ubuntu0~16.04.1, automatic), aspell:amd64 (0.60.7~20110707-3build1, automatic), libgdk-pixbuf2.0-common:amd64 (2.32.2-1ubuntu1.5, automatic), libgtk2.0-common:amd64 (2.24.30-1ubuntu1.16.04.2, automatic), libgtksourceview-3.0-1:amd64 (3.18.2-1, automatic), libgraphite2-3:amd64 (1.3.10-0ubuntu0.16.04.1, automatic), libxxf86vm1:amd64 (1:1.1.4-1, automatic), libvisual-0.4-0:amd64 (0.4.0-8, automatic), libhunspell-1.3-0:amd64 (1.3.3-4ubuntu1, automatic), libxdamage1:amd64 (1:1.1.4-2, automatic), librest-0.7-0:amd64 (0.7.93-1, automatic), dictionaries-common:amd64 (1.26.3, automatic), libatk-bridge2.0-0:amd64 (2.18.1-2ubuntu1, automatic), python3-cairo:amd64 (1.10.0+dfsg-5build1, automatic), libgl1-mesa-glx:amd64 (18.0.5-0ubuntu0~16.04.1, automatic), libsane-common:amd64 (1.0.25+git20150528-1ubuntu2.16.04.1, automatic), libflac8:amd64 (1.3.1-4, automatic), libdrm-intel1:amd64 (2.4.91-2~16.04.1, automatic), x11-common:amd64 (1:7.7+13ubuntu3.1, automatic), libdrm-radeon1:amd64 (2.4.91-2~16.04.1, automatic), libvorbis0a:amd64 (1.3.5-3ubuntu0.2, automatic), libv4l-0:amd64 (1.10.0-1, automatic), libatk1.0-data:amd64 (2.18.0-1, automatic), libharfbuzz0b:amd64 (1.0.1-1ubuntu0.1, automatic), libv4lconvert0:amd64 (1.10.0-1, automatic), libtag1v5-vanilla:amd64 (1.9.1-2.4ubuntu1, automatic), libcolorhug2:amd64 (1.2.12-1ubuntu1, automatic), libcairo2:amd64 (1.14.6-1, automatic), libavc1394-0:amd64 (0.5.4-4, automatic), libavahi-client3:amd64 (0.6.32~rc+dfsg-1ubuntu2.2, automatic), libxcb-glx0:amd64 (1.11.1-1ubuntu1, automatic), libpango-1.0-0:amd64 (1.38.1-1, automatic), libxcb-dri2-0:amd64 (1.11.1-1ubuntu1, automatic), libxkbcommon0:amd64 (0.5.0-1ubuntu2.1, automatic), libjavascriptcoregtk-4.0-18:amd64 (2.20.5-0ubuntu0.16.04.1, automatic), libsensors4:amd64 (1:3.4.0-2, automatic), libgstreamer1.0-0:amd64 (1.8.3-1~ubuntu0.1, automatic), libnotify4:amd64 (0.7.6-2svn1, automatic), libsamplerate0:amd64 (0.1.8-8, automatic), ubuntu-mono:amd64 (14.04+16.04.20180326-0ubuntu1, automatic), libxcb-dri3-0:amd64 (1.11.1-1ubuntu1, automatic), libdconf1:amd64 (0.24.0-2, automatic), libmircommon7:amd64 (0.26.3+16.04.20170605-0ubuntu1.1, automatic), zenity-common:amd64 (3.18.1.1-1ubuntu2, automatic), libsane:amd64 (1.0.25+git20150528-1ubuntu2.16.04.1, automatic), libwayland-server0:amd64 (1.12.0-1~ubuntu16.04.3, automatic), libwebkit2gtk-4.0-37-gtk2:amd64 (2.20.5-0ubuntu0.16.04.1, automatic), libx11-xcb1:amd64 (2:1.6.3-1ubuntu2.1, automatic), libxcb-sync1:amd64 (1.11.1-1ubuntu1, automatic), colord:amd64 (1.2.12-1ubuntu1, automatic), aspell-en:amd64 (7.1-0-1.1, automatic), libdatrie1:amd64 (0.2.10-2, automatic), libwayland-cursor0:amd64 (1.12.0-1~ubuntu16.04.3, automatic)
+End-Date: 2019-01-28  11:55:46
+
+Start-Date: 2019-01-28  14:30:23
+Commandline: apt-get install libssl-dev
+Install: zlib1g-dev:amd64 (1:1.2.8.dfsg-2ubuntu4.1, automatic), libssl-dev:amd64 (1.0.2g-1ubuntu4.14), libssl-doc:amd64 (1.0.2g-1ubuntu4.14, automatic)
+End-Date: 2019-01-28  14:30:25
+
+Start-Date: 2019-01-28  14:32:32
+Commandline: apt-get install libxml2-dev libxslt1-dev python-dev
+Install: python2.7-dev:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), libxslt1-dev:amd64 (1.1.28-2.1ubuntu0.1), libexpat1-dev:amd64 (2.1.0-7ubuntu0.16.04.3, automatic), libpython2.7:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), libpython2.7-dev:amd64 (2.7.12-1ubuntu0~16.04.4, automatic), libpython-dev:amd64 (2.7.12-1~16.04, automatic), libxml2-dev:amd64 (2.9.3+dfsg1-1ubuntu0.6), python-dev:amd64 (2.7.12-1~16.04), libicu-dev:amd64 (55.1-7ubuntu0.4, automatic), icu-devtools:amd64 (55.1-7ubuntu0.4, automatic)
+End-Date: 2019-01-28  14:32:39
+
+Start-Date: 2019-01-28  14:35:22
+Commandline: apt-get install php7.0-gd
+Install: php-common:amd64 (1:35ubuntu6.1, automatic), php7.0-gd:amd64 (7.0.32-0ubuntu0.16.04.1), php7.0-common:amd64 (7.0.32-0ubuntu0.16.04.1, automatic)
+End-Date: 2019-01-28  14:35:27
+
+Start-Date: 2019-01-28  14:37:51
+Commandline: apt-get install libgd-dev
+Install: libpthread-stubs0-dev:amd64 (0.3-4, automatic), libjpeg-turbo8-dev:amd64 (1.4.2-0ubuntu3.1, automatic), libice-dev:amd64 (2:1.0.9-1, automatic), x11proto-kb-dev:amd64 (1.0.7-0ubuntu1, automatic), libjpeg-dev:amd64 (8c-2ubuntu8, automatic), libxt-dev:amd64 (1:1.1.5-0ubuntu1, automatic), libvpx-dev:amd64 (1.5.0-2ubuntu1, automatic), libsm-dev:amd64 (2:1.2.2-1, automatic), xtrans-dev:amd64 (1.3.5-1, automatic), libxpm-dev:amd64 (1:3.5.11-1ubuntu0.16.04.1, automatic), libxcb1-dev:amd64 (1.11.1-1ubuntu1, automatic), libpng12-dev:amd64 (1.2.54-1ubuntu1.1, automatic), libtiff5-dev:amd64 (4.0.6-1ubuntu0.5, automatic), libsm6:amd64 (2:1.2.2-1, automatic), libfontconfig1-dev:amd64 (2.11.94-0ubuntu1.1, automatic), x11proto-core-dev:amd64 (7.0.31-1~ubuntu16.04.2, automatic), libxau-dev:amd64 (1:1.0.8-1, automatic), pkg-config:amd64 (0.29.1-0ubuntu1, automatic), libjbig-dev:amd64 (2.1-3.1, automatic), libxt6:amd64 (1:1.1.5-0ubuntu1, automatic), libfreetype6-dev:amd64 (2.6.1-0.1ubuntu2.3, automatic), libxdmcp-dev:amd64 (1:1.1.2-1.1, automatic), x11proto-input-dev:amd64 (2.3.1-1, automatic), libx11-dev:amd64 (2:1.6.3-1ubuntu2.1, automatic), libx11-doc:amd64 (2:1.6.3-1ubuntu2.1, automatic), xorg-sgml-doctools:amd64 (1:1.11-1, automatic), libjpeg8-dev:amd64 (8c-2ubuntu8, automatic), libice6:amd64 (2:1.0.9-1, automatic), liblzma-dev:amd64 (5.1.1alpha+20120614-2ubuntu2, automatic), libtiffxx5:amd64 (4.0.6-1ubuntu0.5, automatic), libgd-dev:amd64 (2.1.1-4ubuntu0.16.04.10)
+End-Date: 2019-01-28  14:37:58
+
+Start-Date: 2019-01-28  14:59:50
+Commandline: apt-get install build-essential make libpcre3-dev zlib1g-dev openssl libgd-dev
+Install: libpcre16-3:amd64 (2:8.38-3.1, automatic), libpcre3-dev:amd64 (2:8.38-3.1), libpcre32-3:amd64 (2:8.38-3.1, automatic), libpcrecpp0v5:amd64 (2:8.38-3.1, automatic)
+End-Date: 2019-01-28  14:59:53
+
+Start-Date: 2019-01-28  15:20:06
+Commandline: apt-get install unzip gcc make libpcre3-dev zlib1g-dev
+Install: unzip:amd64 (6.0-20ubuntu1)
+End-Date: 2019-01-28  15:20:06
+
+Start-Date: 2019-01-28  21:48:37
+Commandline: apt-get full-upgrade
+Install: libnginx-mod-http-geoip:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-upstream-fair:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-auth-pam:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-dav-ext:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-subs-filter:amd64 (1.14.1-0+xenial0, automatic), nginx-full:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-image-filter:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-echo:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-mail:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-stream:amd64 (1.14.1-0+xenial0, automatic), libnginx-mod-http-xslt-filter:amd64 (1.14.1-0+xenial0, automatic)
+Upgrade: nginx-common:amd64 (1.10.3-0ubuntu0.16.04.3, 1.14.1-0+xenial0), nginx:amd64 (1.10.3-0ubuntu0.16.04.3, 1.14.1-0+xenial0)
+Remove: nginx-core:amd64 (1.10.3-0ubuntu0.16.04.3)
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2019-01-28  21:49:04
+
+Start-Date: 2019-01-28  22:05:48
+Commandline: apt install libnginx-mod-http-auth-pam
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2019-01-28  22:05:48
+
+Start-Date: 2019-01-28  22:12:24
+Commandline: apt-get install libnginx-mod-http-auth-pam
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2019-01-28  22:12:24
+
+Start-Date: 2019-01-28  22:23:48
+Commandline: apt-get install libnginx-mod-http-auth-pam
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2019-01-28  22:23:48
+
+Start-Date: 2019-01-28  22:31:58
+Commandline: apt-get install libnginx-mod-http-auth-pam
+Error: Sub-process /usr/bin/dpkg returned an error code (1)
+End-Date: 2019-01-28  22:31:58
+
+Start-Date: 2019-01-28  22:47:01
+Commandline: apt install php libapache2-mod-php php-mysql
+Install: php7.0-cli:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), libapache2-mod-php:amd64 (1:7.0+35ubuntu6.1), php7.0-opcache:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), php7.0:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), php:amd64 (1:7.0+35ubuntu6.1), php7.0-json:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), php7.0-readline:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), php-mysql:amd64 (1:7.0+35ubuntu6.1), libapache2-mod-php7.0:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), php7.0-mysql:amd64 (7.0.32-0ubuntu0.16.04.1, automatic)
+End-Date: 2019-01-28  22:47:12
+
+Start-Date: 2019-01-28  23:00:53
+Commandline: apt-get install php-fpm
+Install: php7.0-fpm:amd64 (7.0.32-0ubuntu0.16.04.1, automatic), php-fpm:amd64 (1:7.0+35ubuntu6.1)
+End-Date: 2019-01-28  23:00:56

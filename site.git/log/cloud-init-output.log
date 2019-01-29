@@ -1,0 +1,132 @@
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'init-local' at Thu, 24 Jan 2019 08:17:58 +0000. Up 11.78 seconds.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'init' at Thu, 24 Jan 2019 08:18:00 +0000. Up 13.00 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | True |        104.248.70.89         | 255.255.240.0 | global | 2a:34:18:bb:e9:b3 |
+ci-info: |  eth0  | True |          10.46.0.5           |  255.255.0.0  | global | 2a:34:18:bb:e9:b3 |
+ci-info: |  eth0  | True | fe80::2834:18ff:febb:e9b3/64 |       .       |  link  | 2a:34:18:bb:e9:b3 |
+ci-info: |   lo   | True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |           ::1/128            |       .       |  host  |         .         |
+ci-info: +--------+------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+--------------+--------------+---------------+-----------+-------+
+ci-info: | Route | Destination  |   Gateway    |    Genmask    | Interface | Flags |
+ci-info: +-------+--------------+--------------+---------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0    | 104.248.64.1 |    0.0.0.0    |    eth0   |   UG  |
+ci-info: |   1   |  10.46.0.0   |   0.0.0.0    |  255.255.0.0  |    eth0   |   U   |
+ci-info: |   2   | 104.248.64.0 |   0.0.0.0    | 255.255.240.0 |    eth0   |   U   |
+ci-info: +-------+--------------+--------------+---------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    eth0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |    eth0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Generating public/private rsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_rsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub.
+The key fingerprint is:
+SHA256:b4oq76gsEgurthOTXvHPrB05G3xyxCWOmSDGa2UtG48 root@cse135-hw1-111
+The key's randomart image is:
++---[RSA 2048]----+
+|                 |
+|  .   .          |
+|   + * . . .     |
+|  ..= B * o      |
+|  .ooE =S+       |
+|o+.. .. o.       |
+|o++   +B oo      |
+|*+..  .=Oo       |
+|B++++ooo.        |
++----[SHA256]-----+
+Generating public/private dsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_dsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_dsa_key.pub.
+The key fingerprint is:
+SHA256:Cv8zI6XthLlqmH9iTKGjIFMcke0kPKrWvDaHGPriT2w root@cse135-hw1-111
+The key's randomart image is:
++---[DSA 1024]----+
+| ..+             |
+|  * o            |
+| o *             |
+|. o o            |
+|..o...  S        |
+|=o+o.o +.        |
+|=ooEo =+.        |
+|+.===.++=        |
+|.++==+.oo+       |
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub.
+The key fingerprint is:
+SHA256:c9CMQZLlKnfIBMqL53jDI6501UVjPQboYOct/hSU0hQ root@cse135-hw1-111
+The key's randomart image is:
++---[ECDSA 256]---+
+|    . .+BE=      |
+| . . +.*oO.+     |
+|  o . * B.+ .    |
+| . . o.*.+       |
+|. o ..*.S o      |
+| =  .o o +       |
+|o.*.    o        |
+|oo.o     .       |
+|o.               |
++----[SHA256]-----+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ed25519_key.
+Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub.
+The key fingerprint is:
+SHA256:tDdOFZYQL/5/VzUpGG2l0yVyQZ+mO7OZBv30r/s+OcI root@cse135-hw1-111
+The key's randomart image is:
++--[ED25519 256]--+
+|          oo=o*o.|
+|           +.*ooo|
+|        . . *o +o|
+|       . o + .+o.|
+|        S = ... o|
+|         + + ....|
+|          . ++o +|
+|             E*=+|
+|            .+=*O|
++----[SHA256]-----+
+Generating locales (this might take a while)...
+  en_US.UTF-8... done
+Generation complete.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'modules:config' at Thu, 24 Jan 2019 08:18:06 +0000. Up 19.86 seconds.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'modules:final' at Thu, 24 Jan 2019 08:18:13 +0000. Up 26.37 seconds.
+ci-info: no authorized ssh keys fingerprints found for user root.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 finished at Thu, 24 Jan 2019 08:18:13 +0000. Datasource DataSourceDigitalOcean.  Up 26.63 seconds
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'init-local' at Thu, 24 Jan 2019 08:38:45 +0000. Up 11.41 seconds.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'init' at Thu, 24 Jan 2019 08:38:47 +0000. Up 12.65 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |  Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | True |        104.248.70.89         | 255.255.240.0 | global | 2a:34:18:bb:e9:b3 |
+ci-info: |  eth0  | True |          10.46.0.5           |  255.255.0.0  | global | 2a:34:18:bb:e9:b3 |
+ci-info: |  eth0  | True | fe80::2834:18ff:febb:e9b3/64 |       .       |  link  | 2a:34:18:bb:e9:b3 |
+ci-info: |   lo   | True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   | True |           ::1/128            |       .       |  host  |         .         |
+ci-info: +--------+------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+--------------+--------------+---------------+-----------+-------+
+ci-info: | Route | Destination  |   Gateway    |    Genmask    | Interface | Flags |
+ci-info: +-------+--------------+--------------+---------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0    | 104.248.64.1 |    0.0.0.0    |    eth0   |   UG  |
+ci-info: |   1   |  10.46.0.0   |   0.0.0.0    |  255.255.0.0  |    eth0   |   U   |
+ci-info: |   2   | 104.248.64.0 |   0.0.0.0    | 255.255.240.0 |    eth0   |   U   |
+ci-info: +-------+--------------+--------------+---------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   0   |  fe80::/64  |    ::   |    eth0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |    eth0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'modules:config' at Thu, 24 Jan 2019 08:38:49 +0000. Up 14.94 seconds.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 running 'modules:final' at Thu, 24 Jan 2019 08:38:50 +0000. Up 15.69 seconds.
+Cloud-init v. 18.4-0ubuntu1~16.04.2 finished at Thu, 24 Jan 2019 08:38:50 +0000. Datasource DataSourceDigitalOcean.  Up 15.87 seconds

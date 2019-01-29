@@ -1,0 +1,4 @@
+ERROR: apport (pid 5560) Mon Jan 28 17:07:02 2019: called for pid 25412, signal 11, core limit 0, dump mode 1
+ERROR: apport (pid 5560) Mon Jan 28 17:07:02 2019: executable: /usr/bin/vim.basic (command line "vim /etc/nginx")
+ERROR: apport (pid 5560) Mon Jan 28 17:07:02 2019: is_closing_session(): no DBUS_SESSION_BUS_ADDRESS in environment
+ERROR: apport (pid 5560) Mon Jan 28 17:07:04 2019: wrote report /var/crash/_usr_bin_vim.basic.0.crash

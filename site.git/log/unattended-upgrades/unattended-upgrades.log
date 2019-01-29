@@ -1,0 +1,38 @@
+2019-01-25 05:12:02,734 INFO Initial blacklisted packages: 
+2019-01-25 05:12:02,734 INFO Initial whitelisted packages: 
+2019-01-25 05:12:02,735 INFO Starting unattended upgrades script
+2019-01-25 05:12:02,735 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-25 06:41:29,716 INFO Initial blacklisted packages: 
+2019-01-25 06:41:29,716 INFO Initial whitelisted packages: 
+2019-01-25 06:41:29,716 INFO Starting unattended upgrades script
+2019-01-25 06:41:29,717 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-25 06:41:52,575 INFO Packages that will be upgraded: apt apt-transport-https apt-utils initramfs-tools initramfs-tools-bin initramfs-tools-core krb5-locales libapt-inst2.0 libapt-pkg5.0 libgssapi-krb5-2 libk5crypto3 libkrb5-3 libkrb5support0 libpam-systemd libpolkit-agent-1-0 libpolkit-backend-1-0 libpolkit-gobject-1-0 libsystemd0 libudev1 policykit-1 systemd systemd-sysv tzdata udev unattended-upgrades
+2019-01-25 06:41:52,575 INFO Writing dpkg log to '/var/log/unattended-upgrades/unattended-upgrades-dpkg.log'
+2019-01-25 06:52:14,740 INFO All upgrades installed
+2019-01-26 01:18:00,311 INFO Initial blacklisted packages: 
+2019-01-26 01:18:00,312 INFO Initial whitelisted packages: 
+2019-01-26 01:18:00,313 INFO Starting unattended upgrades script
+2019-01-26 01:18:00,313 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-26 06:37:44,979 INFO Initial blacklisted packages: 
+2019-01-26 06:37:44,979 INFO Initial whitelisted packages: 
+2019-01-26 06:37:44,980 INFO Starting unattended upgrades script
+2019-01-26 06:37:44,980 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-26 06:37:47,654 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2019-01-27 03:28:00,077 INFO Initial blacklisted packages: 
+2019-01-27 03:28:00,079 INFO Initial whitelisted packages: 
+2019-01-27 03:28:00,080 INFO Starting unattended upgrades script
+2019-01-27 03:28:00,080 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-27 06:49:13,252 INFO Initial blacklisted packages: 
+2019-01-27 06:49:13,253 INFO Initial whitelisted packages: 
+2019-01-27 06:49:13,253 INFO Starting unattended upgrades script
+2019-01-27 06:49:13,253 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-27 06:49:15,915 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2019-01-28 06:47:08,583 INFO Initial blacklisted packages: 
+2019-01-28 06:47:08,584 INFO Initial whitelisted packages: 
+2019-01-28 06:47:08,585 INFO Starting unattended upgrades script
+2019-01-28 06:47:08,585 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
+2019-01-28 06:47:11,435 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2019-01-28 07:30:39,886 INFO Initial blacklisted packages: 
+2019-01-28 07:30:39,886 INFO Initial whitelisted packages: 
+2019-01-28 07:30:39,886 INFO Starting unattended upgrades script
+2019-01-28 07:30:39,887 INFO Allowed origins are: ['o=Ubuntu,a=xenial', 'o=Ubuntu,a=xenial-security', 'o=UbuntuESM,a=xenial']
